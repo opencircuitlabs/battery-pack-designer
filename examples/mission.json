@@ -1,0 +1,5 @@
+[
+  {"id":"standby","durationHours":8,"powerWatts":2,"efficiency":0.92},
+  {"id":"active","durationHours":1.5,"powerWatts":18,"efficiency":0.9},
+  {"id":"transmit","durationHours":0.1,"powerWatts":45,"efficiency":0.88}
+]

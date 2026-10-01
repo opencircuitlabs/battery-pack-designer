@@ -1,0 +1,16 @@
+{
+  "chemistry":"NMC",
+  "nominalVoltageV":3.6,
+  "minimumVoltageV":2.8,
+  "maximumVoltageV":4.2,
+  "capacityAh":3,
+  "internalResistanceMilliohm":20,
+  "maximumContinuousDischargeA":10,
+  "maximumPulseDischargeA":15,
+  "maximumChargeA":3,
+  "minimumTemperatureC":-20,
+  "maximumTemperatureC":60,
+  "capacityTolerancePercent":5,
+  "resistanceTolerancePercent":15,
+  "voltageTolerancePercent":1
+}

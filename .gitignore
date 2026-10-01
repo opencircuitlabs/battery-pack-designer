@@ -1,0 +1,5 @@
+node_modules/
+coverage/
+/result.json
+/report.md
+*.log

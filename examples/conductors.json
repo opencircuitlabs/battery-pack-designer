@@ -1,0 +1,6 @@
+[
+  {"id":"AWG18","ampacityA":10,"resistanceOhmPerM":0.02095},
+  {"id":"AWG14","ampacityA":20,"resistanceOhmPerM":0.008286},
+  {"id":"AWG12","ampacityA":25,"resistanceOhmPerM":0.005211},
+  {"id":"AWG10","ampacityA":35,"resistanceOhmPerM":0.003277}
+]
